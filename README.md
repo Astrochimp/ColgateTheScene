@@ -10,14 +10,16 @@ This repo contains work done to add features and functionality to the homepage.
 1) People section moved to it's own row to take up the full width.
     Change was made in the template-new-scene-home-page.php in the Ciola-child theme
     Added this section
+    ```
         <div id="mainwide" class="entry-content clearfix">
 
 						    <section class="entry-content clearfix">
 							    <?php echo do_shortcode('[module type=g category="People" amount="12" ]'); ?>
                     
 							</section> <!-- end article section -->
-					</div>	    
-		The short code calls a module that references a category to show the people section.
+					</div>	   
+     ```
+     The short code calls a module that references a category to show the people section.
 		
 					
 2) New digest section reformatted to match the origina design spec. 
@@ -29,7 +31,7 @@ This repo contains work done to add features and functionality to the homepage.
    --Created a new module (moduel-m.php in Ciola theme) use for rendering the photos.
    --Added jquery.colorbox-min.js and modal.js to Ciola/library/js folder for use in the photo gallery.
    --Added this to the template-new-scene-home-page.php in Ciola-child theme
-   
+   ```
    <!-- 
 				
 				New photo gallery section using a new module page specifically for photos.
@@ -47,4 +49,4 @@ This repo contains work done to add features and functionality to the homepage.
 							</div>
 
 			</div>
-
+    ```
