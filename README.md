@@ -13,7 +13,7 @@ This repo contains work done to add features and functionality to the homepage.
     Added this section
     
 
-```html        
+```php        
         <div id="mainwide" class="entry-content clearfix">
 	    <section class="entry-content clearfix">
 		    <?php echo do_shortcode('[module type=g category="People" amount="12" ]'); ?>
@@ -35,7 +35,7 @@ This repo contains work done to add features and functionality to the homepage.
    --Added this to the template-new-scene-home-page.php in Ciola-child theme
    
    
-```html        
+```php 
    <!-- 
 		
 		New photo gallery section using a new module page specifically for photos.
