@@ -1,0 +1,418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ciola 1.5\n"
+"POT-Creation-Date: 2013-05-30 18:45-0000\n"
+"PO-Revision-Date: 2013-07-29 13:59-0000\n"
+"Last-Translator: \n"
+"Language-Team: Cubell\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;_n;__;__e\n"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/404.php:13
+msgid "404 - Not Found, Oops!"
+msgstr "404 - Page introuvable"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/404.php:17
+msgid ""
+"The page you were looking for was not found. Please try searching for it "
+"again with different keywords."
+msgstr ""
+"La page recherchée est introuvable. Veuillez réessayer avec d'autres termes."
+
+#: C:\wamp\www\maxi\wp-content\themes\000/archive.php:11
+msgid "Daily Archives:"
+msgstr "Archives par jour :"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/archive.php:16
+msgid "Monthly Archives:"
+msgstr "Archives par mois :"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/archive.php:21
+msgid "Yearly Archives:"
+msgstr "Archives par an :"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/author.php:13
+msgid "Latest"
+msgstr "Articles récents"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/cat-style-a.php:47
+#: C:\wamp\www\maxi\wp-content\themes\000/cat-style-b.php:54
+#: C:\wamp\www\maxi\wp-content\themes\000/template-top-reviews.php:68
+#: C:\wamp\www\maxi\wp-content\themes\000/template-top-reviews.php:95
+#, php-format
+msgid ""
+"By <span class=\"author\">%1$s</span> on <time class=\"updated\" datetime="
+"\"%2$s\" pubdate>%3$s</time>"
+msgstr ""
+"Par <span class=\"author\">%1$s</span> le <time class=\"updated\" datetime="
+"\"%2$s\" pubdate>%3$s</time>"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Ce billet est vérouillé. Veuillez entrer le mot de passe pour voir les "
+"commentaires."
+
+#: C:\wamp\www\maxi\wp-content\themes\000/comments.php:17
+msgid "<span>No</span> Responses"
+msgstr "<span>Aucune</span> réponse"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/comments.php:17
+msgid "<span>One</span> Response"
+msgstr "<span>Une</span> réponse"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/comments.php:17
+msgid "<span>%</span> Response"
+msgstr "<span>%</span> Réponse"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/comments.php:56
+msgid "Cancel reply"
+msgstr "Annuler la réponse"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/comments.php:57
+msgid "Submit"
+msgstr "Envoyer"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/header.php:66
+msgid "Breaking"
+msgstr "Actualités"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/module-a.php:103
+#: C:\wamp\www\maxi\wp-content\themes\000/module-b.php:105
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/cb-recent-posts-widget.php:65
+#, php-format
+msgid ""
+"By <span class=\"author\">%1$s</span> on <time class=\"updated\" datetime="
+"\"%2$s\">%3$s</time>"
+msgstr ""
+"Par <span class=\"author\">%1$s</span> le <time class=\"updated\" datetime="
+"\"%2$s\">%3$s</time>"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/module-c.php:61
+#: C:\wamp\www\maxi\wp-content\themes\000/module-d.php:42
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/cb-top-reviews-widget.php:76
+#, php-format
+msgid "By <span class=\"author\">%1$s</span>"
+msgstr "Par <span class=\"author\">%1$s</span>"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/module-full-grid-4.php:70
+#: C:\wamp\www\maxi\wp-content\themes\000/module-full-grid-5.php:65
+#: C:\wamp\www\maxi\wp-content\themes\000/module-full-grid-6.php:76
+#: C:\wamp\www\maxi\wp-content\themes\000/module-full-grid-7.php:76
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:736
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:795
+msgid "By"
+msgstr "Par"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/page.php:38
+msgid "Tags:"
+msgstr "Etiquettes"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/search.php:10
+msgid "Search Results for:"
+msgstr "Résultats de recherche pour :"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/search.php:18
+msgid "Sorry, nothing found."
+msgstr "Désolé, nous n'avons rien trouvé."
+
+#: C:\wamp\www\maxi\wp-content\themes\000/search.php:22
+msgid "Please try searching for it again with different keywords."
+msgstr "Veuillez reformuler votre requête."
+
+#: C:\wamp\www\maxi\wp-content\themes\000/single.php:74
+msgid "Pages:"
+msgstr "Pages:"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/single.php:77
+msgid "Tags"
+msgstr "Etiquettes"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/tag.php:10
+msgid "Tagged:"
+msgstr "Archivé :"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:668
+msgid "(Edit)"
+msgstr "(Editer)"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:672
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire doit être approuvé avant d'être publié."
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:708
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:767
+msgid "Related Posts"
+msgstr "Articles similaires"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:858
+msgid "First"
+msgstr "Premier"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:876
+msgid "Last"
+msgstr "Dernier"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:897
+#, php-format
+msgid "By %s"
+msgstr "Par %s"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:914
+msgid "Read more  &rarr;"
+msgstr "Lire la suite &rarr;"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:962
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1020
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1055
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1086
+#, php-format
+msgid ""
+"By <span class=\"author\" itemprop=\"author\">%1$s</span> on <time class="
+"\"updated\" datetime=\"%2$s\" pubdate>%3$s</time>"
+msgstr ""
+"Par <span class=\"author\" itemprop=\"author\">%1$s</span> le <time class="
+"\"updated\" datetime=\"%2$s\" pubdate>%3$s</time>"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:962
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1020
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1055
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1086
+msgid "in"
+msgstr "dans"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1255
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1325
+msgid "Email"
+msgstr "Email"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1260
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1330
+msgid "Website"
+msgstr "Site web"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1281
+msgid "About the author"
+msgstr "A propos de l'auteur"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1425
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1445
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1465
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1691
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1709
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1728
+msgid "User Score:"
+msgstr "Evaluations:"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:2151
+msgid "<span>Previous Story</span>"
+msgstr "<span>Article précédent</span>"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:2151
+msgid "<span class='empty'>No older stories</span>"
+msgstr "<span class='empty'>Aucun article plus ancien</span>"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:2155
+msgid "<span>Next Story</span>"
+msgstr "<span>Article suivant</span>"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:2155
+msgid "<span class='empty'>No newer stories</span>"
+msgstr "<span class='empty'>Aucun nouvel article</span>"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/cb-recent-posts-widget.php:33
+msgid "Recent Posts"
+msgstr "Articles récents"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/cb-recent-posts-widget.php:101
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/cb-top-reviews-widget.php:118
+msgid "Title:"
+msgstr "Titre :"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/cb-recent-posts-widget.php:104
+msgid "Number of posts to show:"
+msgstr "Nombres d'articles à afficher :"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/cb-top-reviews-widget.php:33
+msgid "Top Reviews"
+msgstr "Critiques"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/cb-top-reviews-widget.php:122
+msgid "Number of reviews to show:"
+msgstr "Nombre de critiques à afficher :"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/soundcloud-shortcode.php:234
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les droits requis pour accéder à cette page."
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/soundcloud-shortcode.php:335
+msgid "Save Changes"
+msgstr "Sauvegarder les modifications"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/meta-box/inc/classes/meta-box.php:284
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Veuillez corriger les erreurs surlignés ci-dessous puis réessayer."
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/meta-box/inc/classes/meta-box.php:342
+msgid "+"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/meta-box/inc/classes/meta-box.php:364
+msgid "&#8211;"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/meta-box/inc/fields/file.php:65
+msgid "Error: Cannot delete file"
+msgstr "Erreur : impossible de supprimer le fichier"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/meta-box/inc/fields/image.php:64
+msgid "Order saved"
+msgstr "Ordre sauvegardé"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/meta-box/inc/fields/map.php:46
+msgid "Find Address"
+msgstr "Chercher l'adresse"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/meta-box/inc/fields/select-advanced.php:82
+msgid "Select a value"
+msgstr "Sélectionner une valeur"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/cb-class-config.php:19
+msgid "Blog Style "
+msgstr "Modèle du blog"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/cb-class-config.php:20
+msgid "Show grid/slider "
+msgstr "Afficher la grille/slider"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/cb-class-config.php:21
+msgid "Category Base Color"
+msgstr "Couleur générale de la catégorie"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/cb-class-config.php:22
+msgid "Category Background Image "
+msgstr "Couleur d'arrière-plan de l'image"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/cb-class-config.php:23
+msgid "Background Image Settings"
+msgstr "Paramètres d'arrière-plan de l'image"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/cb-class-config.php:24
+msgid "Category Background Color"
+msgstr "Couleur d'arrière-plan "
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/cb-class-config.php:25
+msgid "Show Description "
+msgstr "Afficher la descriptio"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:250
+msgid "Delete this image"
+msgstr "Supprimer cette image"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:250
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:882
+msgid "Delete"
+msgstr "Supprimer"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:357
+msgid "Cannot delete file. Something's wrong."
+msgstr "Impossible de supprimer le fichier. Veuillez réessayer."
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:582
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:629
+msgid "Remove"
+msgstr "Supprimer"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:595
+msgid "Add"
+msgstr "Ajouter"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:878
+msgid "Uploaded files"
+msgstr "Fichiers transférés"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:889
+msgid "Upload new files"
+msgstr "Transférer de nouveaux fichiers"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:895
+msgid "Add more files"
+msgstr "Ajouter plus de fichiers"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:947
+msgid "Select a color"
+msgstr "Sélectionner une couleur"
+
+#~ msgid ""
+#~ "By <span class=\"author\" itemprop=\"author\"><span class=\"fn\">%1$s</"
+#~ "span></span> on <time class=\"updated\" datetime=\"%2$s\" pubdate>%3$s</"
+#~ "time>"
+#~ msgstr ""
+#~ "Par <span class=\"author\" itemprop=\"author\"><span class=\"fn\">%1$s</"
+#~ "span></span> le <time class=\"updated\" datetime=\"%2$s\" pubdate>%3$s</"
+#~ "time>"
+
+#, fuzzy
+#~ msgid "<h3 class='h5'>%title</h3>"
+#~ msgstr "<span>Article suivant</span><h3 class='h5'>%title</h3>"
+
+#, fuzzy
+#~ msgid "Edit"
+#~ msgstr "(Editar)"
+
+#~ msgid "Leave a response"
+#~ msgstr "Laisser un commentaire"
+
+#~ msgid "Leave a response to %s"
+#~ msgstr "Répondre à %s"
+
+#~ msgid "You must be %1$slogged in%2$s to leave a response."
+#~ msgstr "Vous devez vous %1$sconnecter%2$s pour laisser une réponse."
+
+#~ msgid "Logged in as"
+#~ msgstr "Connecté en tant que"
+
+#~ msgid "Log out of this account"
+#~ msgstr "Se déconnecter"
+
+#~ msgid "Log out"
+#~ msgstr "Déconnexion"
+
+#~ msgid "Name"
+#~ msgstr "Nom"
+
+#~ msgid "(required)"
+#~ msgstr "(requis)"
+
+#~ msgid "Name*"
+#~ msgstr "Nom*"
+
+#~ msgid "Mail"
+#~ msgstr "Email"
+
+#~ msgid "E-Mail*"
+#~ msgstr "Email*"
+
+#~ msgid "(will not be published)"
+#~ msgstr "(ne sera pas publié)"
+
+#~ msgid "Your Comment here..."
+#~ msgstr "Votre commentaire ici..."
+
+#, fuzzy
+#~ msgid "Title: "
+#~ msgstr "Título:"
+
+#, fuzzy
+#~ msgid "Title"
+#~ msgstr "Título:"
+
+#, fuzzy
+#~ msgid "required"
+#~ msgstr "(requerido)"
+
+#~ msgid "Comments are closed."
+#~ msgstr "Los comentarios están cerrados."

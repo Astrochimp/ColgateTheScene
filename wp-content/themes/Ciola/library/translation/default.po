@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ciola 1.5\n"
+"POT-Creation-Date: 2013-05-30 18:43-0000\n"
+"PO-Revision-Date: 2013-06-10 11:38-0000\n"
+"Last-Translator: \n"
+"Language-Team: Cubell\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;__e;_e;_n\n"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/404.php:13
+msgid "404 - Not Found, Oops!"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/404.php:17
+msgid ""
+"The page you were looking for was not found. Please try searching for it "
+"again with different keywords."
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/archive.php:11
+msgid "Daily Archives:"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/archive.php:16
+msgid "Monthly Archives:"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/archive.php:21
+msgid "Yearly Archives:"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/author.php:13
+msgid "Latest"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/cat-style-a.php:47
+#: C:\wamp\www\maxi\wp-content\themes\000/cat-style-b.php:54
+#: C:\wamp\www\maxi\wp-content\themes\000/template-top-reviews.php:68
+#: C:\wamp\www\maxi\wp-content\themes\000/template-top-reviews.php:95
+#, php-format
+msgid ""
+"By <span class=\"author\">%1$s</span> on <time class=\"updated\" datetime="
+"\"%2$s\" pubdate>%3$s</time>"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/comments.php:17
+msgid "<span>No</span> Responses"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/comments.php:17
+msgid "<span>One</span> Response"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/comments.php:17
+msgid "<span>%</span> Response"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/comments.php:56
+msgid "Cancel reply"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/comments.php:57
+msgid "Submit"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/header.php:66
+msgid "Breaking"
+msgstr "Minee"
+
+#: C:\wamp\www\maxi\wp-content\themes\000/module-a.php:103
+#: C:\wamp\www\maxi\wp-content\themes\000/module-b.php:105
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/cb-recent-posts-widget.php:65
+#, php-format
+msgid ""
+"By <span class=\"author\">%1$s</span> on <time class=\"updated\" datetime="
+"\"%2$s\">%3$s</time>"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/module-c.php:61
+#: C:\wamp\www\maxi\wp-content\themes\000/module-d.php:42
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/cb-top-reviews-widget.php:76
+#, php-format
+msgid "By <span class=\"author\">%1$s</span>"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/module-full-grid-4.php:70
+#: C:\wamp\www\maxi\wp-content\themes\000/module-full-grid-5.php:65
+#: C:\wamp\www\maxi\wp-content\themes\000/module-full-grid-6.php:76
+#: C:\wamp\www\maxi\wp-content\themes\000/module-full-grid-7.php:76
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:736
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:795
+msgid "By"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/page.php:38
+msgid "Tags:"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/search.php:10
+msgid "Search Results for:"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/search.php:18
+msgid "Sorry, nothing found."
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/search.php:22
+msgid "Please try searching for it again with different keywords."
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/single.php:74
+msgid "Pages:"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/single.php:77
+msgid "Tags"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/tag.php:10
+msgid "Tagged:"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:668
+msgid "(Edit)"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:672
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:708
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:767
+msgid "Related Posts"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:858
+msgid "First"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:876
+msgid "Last"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:897
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:914
+msgid "Read more  &rarr;"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:962
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1020
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1055
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1086
+#, php-format
+msgid ""
+"By <span class=\"author\" itemprop=\"author\">%1$s</span> on <time class="
+"\"updated\" datetime=\"%2$s\" pubdate>%3$s</time>"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:962
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1020
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1055
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1086
+msgid "in"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1255
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1325
+msgid "Email"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1260
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1330
+msgid "Website"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1281
+msgid "About the author"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1425
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1445
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1465
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1691
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1709
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:1728
+msgid "User Score:"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:2151
+msgid "<span>Previous Story</span>"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:2151
+msgid "<span class='empty'>No older stories</span>"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:2155
+msgid "<span>Next Story</span>"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/core-functions.php:2155
+msgid "<span class='empty'>No newer stories</span>"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/cb-recent-posts-widget.php:33
+msgid "Recent Posts"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/cb-recent-posts-widget.php:101
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/cb-top-reviews-widget.php:118
+msgid "Title:"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/cb-recent-posts-widget.php:104
+msgid "Number of posts to show:"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/cb-top-reviews-widget.php:33
+msgid "Top Reviews"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/cb-top-reviews-widget.php:122
+msgid "Number of reviews to show:"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/soundcloud-shortcode.php:234
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/soundcloud-shortcode.php:335
+msgid "Save Changes"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/meta-box/inc/classes/meta-box.php:284
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/meta-box/inc/classes/meta-box.php:342
+msgid "+"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/meta-box/inc/classes/meta-box.php:364
+msgid "&#8211;"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/meta-box/inc/fields/file.php:65
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/meta-box/inc/fields/image.php:64
+msgid "Order saved"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/meta-box/inc/fields/map.php:46
+msgid "Find Address"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/meta-box/inc/fields/select-advanced.php:82
+msgid "Select a value"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/cb-class-config.php:19
+msgid "Blog Style "
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/cb-class-config.php:20
+msgid "Show grid/slider "
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/cb-class-config.php:21
+msgid "Category Base Color"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/cb-class-config.php:22
+msgid "Category Background Image "
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/cb-class-config.php:23
+msgid "Background Image Settings"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/cb-class-config.php:24
+msgid "Category Background Color"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/cb-class-config.php:25
+msgid "Show Description "
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:250
+msgid "Delete this image"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:250
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:882
+msgid "Delete"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:357
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:582
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:629
+msgid "Remove"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:595
+msgid "Add"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:878
+msgid "Uploaded files"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:889
+msgid "Upload new files"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:895
+msgid "Add more files"
+msgstr ""
+
+#: C:\wamp\www\maxi\wp-content\themes\000/library/extensions/Tax-meta-class/Tax-meta-class.php:947
+msgid "Select a color"
+msgstr ""

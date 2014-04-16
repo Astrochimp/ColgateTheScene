@@ -1,0 +1,39 @@
+ul {
+    list-style: circle;
+    margin: 0 0 20px 0;
+}
+ol {
+    list-style: decimal;
+    margin: 0 0 20px 0px;
+}
+blockquote {
+			font-style: italic;
+			width:80%;
+			margin:0 15% 0 5%;
+}
+				
+blockquote p {
+		        font-size:16px;
+		        font-style:italic;
+		        color:#777; 
+		        border-left: 3px solid #e9e9e9;
+		        padding-left: 20px;
+}
+
+cite {
+	font-size:14px; 
+	color:#acacac; 
+	display:block; 
+	margin-top:10px;
+	}
+ 
+a:link {
+    color:#0066CC;
+}
+a:visited {
+    color:#743399;
+}
+a:active,
+a:hover {
+    color: #ff6666;
+}

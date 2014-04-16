@@ -1,0 +1,39 @@
+.cb-meta { margin:20px 0; padding-bottom:10px; border-bottom:3px dashed #ddd; color: #4A4A4A; }
+.cb-meta  .title {font-size:14px;font-weight:bold; padding-bottom:10px;}
+
+.title {font-size:16px;font-weight:bold; padding:10px 0;}
+.sub-title {font-style:italic; padding:10px 0;}
+.spaced {margin:0 20px 20px!important;}
+.cb-meta-review-score-box {border:3px solid #e7e7e7; width:12%;  float:left; margin:1%; padding:0px 1% 20px 1%;}
+.cb-review-title {width:97%;}
+.cb-review-short-summary {width:100px;}
+.cb-review-long-summary {width:50%;}
+.cb-pros-cons {width: 200px;}
+
+.cons-box, .pros-box {float:left;}
+.pros-box{margin-right:100px;}
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+
+.clearfix {
+	display: inline;
+	margin-bottom:20px;
+}
+ 
+html[xmlns] .clearfix {
+	display: block;
+}
+ 
+* html .clearfix {
+	height: 1%;
+}
+
+@media only screen and (max-width: 1440px) {
+.cb-meta-review-score-box { width:28%;  }
+}

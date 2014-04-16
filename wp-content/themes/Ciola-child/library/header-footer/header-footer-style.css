@@ -1,0 +1,306 @@
+/*
+ Theme Name:     Ciola Child
+ Theme URI:      http://themeforest.net/item/ciola-premium-responsive-wordpress-magazine/4720319
+ Description:    Ciola Child Theme
+ Author:         Cubell
+ Author URI:     http://themeforest.net/user/cubell
+ Template:       Ciola
+ Version:        2.4.0
+*/
+
+
+/* =Theme customization starts here. Any CSS code entered here will overwrite the parent's CSS.*/
+
+header{
+	display:block;
+	}
+	
+a {
+	color: #e7810b;
+	text-decoration:none;
+}
+a:visited {
+	color: #e7810b;
+}
+a:focus {
+	outline: thin dotted;
+	text-decoration:none;
+}
+a:hover,
+a:active {
+	color:#862633;;
+	text-decoration:none;
+	outline: 0;
+}
+/**************Not Used*******************
+#TopQuickLinks {
+  list-style-type: none;
+  margin: 2px 0px 0px 0px!important;
+  padding: 0px 0px 0px 0px!important;
+}
+
+#TopQuickLinks li {
+  line-height: 12px;
+}
+
+#TopQuickLinks a {
+  font-family: Interstate!important;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 7pt;
+  text-decoration: none;
+  color: #862633;
+}
+
+#TopQuickLinks a:hover {
+	font-weight: bold;
+	color: #e39615;
+}
+*/
+
+.leftmenu {
+	font-family: "Garamond Bold" !important;
+	font-style: normal;
+	font-size: 17px;
+	color: #58595b !important;
+	position: relative;
+	top: 18px;
+	line-height: 1em!important;
+	margin-bottom: -2px;
+	text-decoration: none;
+}
+
+.leftmenu a {
+	color: #58595b !important;
+	text-decoration: none;
+}
+.leftmenu a:hover {
+	color: #862633 !important;
+	text-decoration: none;
+}
+
+.leftmenu span {
+	float: left;
+	padding-right: 8px;
+}
+
+.colgate_u {
+	color: #862633 !important;
+	text-decoration: none;
+	margin-top: 20px;
+}
+.colgate_u a:link {
+	color: #862633 !important;
+	text-decoration: none;
+	margin-top: 20px;
+}
+
+#TopNavRedBar {
+	height: 28px;
+	background-image: url('img/topmenu-redbar.png');
+}
+
+#TopNavRedBarMobile {
+	height: 9px;
+	display: none;
+	background-image: url('img/topmenu-redbarMobile.png');
+	background-color:transparent;
+}
+.audienceTopMenu{
+	padding-left: 45px;
+	font-size:16px;
+	vertical-align:middle;
+}
+.audienceTopMenu a:hover
+{
+    color: #e7810b!important;
+}
+.audienceTopMenuMobile{
+	font-size:16px;
+	vertical-align:middle;
+	display:none;
+}
+.jforTop{
+	color:#FFF !important;
+	padding-right:18px;
+	font-family: Interstate !important;
+	font-size:11px;
+	font-style:normal;
+	text-decoration:none;
+	margin-right:-5px;
+}
+#TopBarGrey {
+	overflow: hidden;
+	background: url('img/topbg.png') no-repeat;
+	height: 110px;
+	font-size: 16px!important;
+	line-height: 1.4!important;
+	margin-bottom: 0px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #ccc;
+}
+
+.querystring{
+	font-family:Interstate!important;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: normal;
+	text-transform: capitalize;
+	color: #58595b;
+}
+
+
+
+#TopNavSeal {
+  position: absolute;
+  z-index: 300;
+  margin-left: 26px;
+  margin-top: -27px;
+  width: 126px;
+  height:174px;
+}
+
+
+.banner_seal_a {
+  width: 162px;
+  height: 115px;
+}
+
+.banner_seal_mob {
+  display: none;
+}
+
+
+/*
+=============================================================================
+
+   FOOTER STYLES
+
+=============================================================================
+*/
+
+
+footer{
+	display:block;
+	}
+.garamond {
+	font-family: Garamond!important;
+	font-style: normal;
+	font-weight: normal;
+}
+
+.ftraddress {
+  font-family: Interstate;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  color: #aaaaaa !important;
+}
+.ftritem {
+  text-decoration: none;
+  font-family: Interstate;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  color: #e39615 !important;
+  padding-right: 12px;
+}
+
+.footerList {
+  font-family: Interstate;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  position: relative;
+  color: #e39615;
+  padding-right: 12px;
+}
+
+.footerList *:hover {
+  color: #FFF!important;
+}
+
+.footerList *:active {
+  color: #FFF!important;
+}
+
+
+.footerblk {
+  background: url('img/footer.png') no-repeat;
+  height: 120px;
+  padding-top: 22px;
+}
+
+
+
+.logofooter{
+	font-size:20px;
+	color:#fff;
+	}
+
+#FooterText {
+  font-family: Interstate!important;
+  font-style: normal;
+  font-size: 13px;
+  color: #AAAAAA;
+  font-weight: normal;
+  position: relative;
+}
+.FooterTextForm a {
+  font-family: Interstate!important;
+  font-style: normal;
+  font-size: 13px;
+  color: #e39615;
+  font-weight: normal;
+  position: relative;
+}
+.FooterTextForm a:hover {
+  color: #FFF;
+}
+
+#ftrfb {
+  width: 25px;
+  background-position: 0px 0px;
+}
+
+#ftrtw {
+  width: 26px;
+  background-position: -27px 0px;
+}
+
+#ftryt {
+  margin-top: 4px;
+  width: 32px;
+  background-position: -53px 0px;
+}
+
+#ftrplus {
+  width: 32px;
+  background-position: -85px 0px;
+}
+
+#ftrfl {
+  width: 34px;
+  background-position: -121px 0px;
+}
+
+.ftricon {
+	display: inline-block;
+	float: left;
+	height: 32px;
+	background-image: url('img/ftr_social.png');
+	background-repeat: no-repeat;
+}
+@media only screen and (min-width: 360px) {
+
+  /******************************************************************
+  GRID STYLES
+  *****************************************************************/
+/*  header{
+	  display:none;
+  }
+  footer{
+	  display:none;
+*/  }
+}
