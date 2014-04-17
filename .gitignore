@@ -1,6 +1,7 @@
 wp-admin
 wp-includes
 wp-admin
+wp-content/plugins
 index.php
 license.txt	
 wp-activate.php	

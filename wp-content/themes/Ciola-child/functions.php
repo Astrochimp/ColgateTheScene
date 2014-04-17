@@ -25,4 +25,32 @@ if ( ! function_exists( 'cb_scripts_and_styles_child' ) ) {
     }
 
 }
+
+
+add_action( 'init', 'create_post_type' );
+
+function create_post_type() {
+
+
+	register_post_type( 'main_feature',
+		array(
+			'labels' => array(
+				'name' => __( 'Category Feature' ),
+				'singular_name' => __( 'Feature' )
+			),
+		'description' => 'Articles in categories featured on the homepage',
+		'public' => true,
+		'has_archive' => true,
+		'public' => true,
+		'menu_position' => 5,
+  		'supports' => array( 'title', 'thumbnail','excerpt', 'editor'),
+  		'taxonomies' => array( 'category', 'post_tag' ),
+  		'show_ui' => true,
+  		'capability_type' => 'post'
+
+	));
+}
+
+
+
 ?>
