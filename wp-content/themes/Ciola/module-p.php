@@ -104,10 +104,10 @@
 				$anchorlink1 = get_post_meta( get_the_ID(), 'anchor_link1', true);
 
 				$anchortext2 = get_post_meta( get_the_ID(), 'anchor_link2_text', true);
-				$anchorlink2 = get_post_meta( get_the_ID(), 'anchor_link2', true);
+				$anchorlink2 = get_post_meta( get_the_ID(), 'anchor_link_2', true);
 
 				$anchortext3 = get_post_meta( get_the_ID(), 'anchor_link3_text', true);
-				$anchorlink3 = get_post_meta( get_the_ID(), 'anchor_link3', true);
+				$anchorlink3 = get_post_meta( get_the_ID(), 'anchor_link_3', true);
 
 
 
@@ -123,15 +123,15 @@
 
 
             	<?php if ($anchorlink1 != "#") { ?>
-            		<h2 class="h6 cb-extralinks"><a href="<?php echo the_permalink(); ?><?php echo $anchorlink1; ?>"><?php echo $anchortext1; ?></a></h2>
+            		<h2 class="h6 cb-extralinks"><a href="<?php echo the_permalink(); ?>/<?php echo $anchorlink1; ?>"><?php echo $anchortext1; ?></a></h2>
             	<?php } ?>
 
 	            <?php if ($anchorlink2 != "#") { ?>
-            		<h2 class="h6 cb-extralinks"><a href="<?php echo the_permalink(); ?><?php echo $anchorlink2; ?>"><?php echo $anchortext2; ?></a></h2>
+            		<h2 class="h6 cb-extralinks"><a href="<?php echo the_permalink(); ?>/<?php echo $anchorlink2; ?>"><?php echo $anchortext2; ?></a></h2>
             	<?php } ?>
 
             	<?php if ($anchorlink3 != "#") { ?>
-            		<h2 class="h6 cb-extralinks"><a href="<?php echo the_permalink(); ?><?php echo $anchorlink3; ?>"><?php echo $anchortext3; ?></a></h2>
+            		<h2 class="h6 cb-extralinks"><a href="<?php echo the_permalink(); ?>/<?php echo $anchorlink3; ?>"><?php echo $anchortext3; ?></a></h2>
             	<?php } ?>
 
 
