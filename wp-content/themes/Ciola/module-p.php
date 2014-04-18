@@ -123,15 +123,15 @@
 
 
             	<?php if ($anchorlink1 != "#") { ?>
-            		<h2 class="h6 cb-extralinks"><a href="<?php echo $anchorlink1; ?>"><?php echo $anchortext1; ?></a></h2>
+            		<h2 class="h6 cb-extralinks"><a href="<?php echo the_permalink(); ?><?php echo $anchorlink1; ?>"><?php echo $anchortext1; ?></a></h2>
             	<?php } ?>
 
 	            <?php if ($anchorlink2 != "#") { ?>
-            		<h2 class="h6 cb-extralinks"><a href="<?php echo $anchorlink2; ?>"><?php echo $anchortext2; ?></a></h2>
+            		<h2 class="h6 cb-extralinks"><a href="<?php echo the_permalink(); ?><?php echo $anchorlink2; ?>"><?php echo $anchortext2; ?></a></h2>
             	<?php } ?>
 
             	<?php if ($anchorlink3 != "#") { ?>
-            		<h2 class="h6 cb-extralinks"><a href="<?php echo $anchorlink3; ?>"><?php echo $anchortext3; ?></a></h2>
+            		<h2 class="h6 cb-extralinks"><a href="<?php echo the_permalink(); ?><?php echo $anchorlink3; ?>"><?php echo $anchortext3; ?></a></h2>
             	<?php } ?>
 
 
