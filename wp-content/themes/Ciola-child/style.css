@@ -147,6 +147,7 @@ software. Please contact WebType with any questions: www.webtype.com
     color:#ffffff;
     background:#862633;
     border:none;
+    z-index:100;
 }
 
 
