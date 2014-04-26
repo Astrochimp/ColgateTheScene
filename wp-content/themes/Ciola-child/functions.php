@@ -43,7 +43,7 @@ function create_post_type() {
 		'has_archive' => true,
 		'public' => true,
 		'menu_position' => 5,
-  		'supports' => array( 'title', 'thumbnail','excerpt', 'editor','style-options'),
+  		'supports' => array( 'title', 'thumbnail','excerpt', 'editor','author', 'post-formats','custom-fields','page-attributes','revisions'),
   		'taxonomies' => array( 'category', 'post_tag' ),
   		'show_ui' => true,
   		'capability_type' => 'post'

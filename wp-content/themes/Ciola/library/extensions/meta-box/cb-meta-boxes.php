@@ -11,7 +11,7 @@ $meta_boxes = array();
 $meta_boxes[] = array(
 	'id' => 'style',
 	'title' => 'Style Options',
-	'pages' => array( 'post' ),
+	'pages' => array( 'post', 'main_feature' ),
 	'context' => 'normal',
 	'priority' => 'high',
 
