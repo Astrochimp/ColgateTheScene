@@ -208,7 +208,7 @@ FULL WIDTH PAGE STYLES
   */
 
   width:90%;
-  margin:0px 40px 0px 40px !important;
+  margin:0px 40px 0px 40px;
   padding:0px;
 }
 
@@ -331,6 +331,20 @@ GRID (THREE) MODULE STYLES override
   width: 280px;
 }
 
+
+@media (max-width: 768px) {
+
+
+
+ #mainwide, #photogallery {
+    width:90%;
+    margin:0px 10px 0px 20px !important;
+  }
+
+}
+
+
+
 @media only screen and (min-width: 481px) {
 
   /******************************************************************
@@ -424,6 +438,9 @@ GRID (THREE) MODULE STYLES override
 }
 
 @media only screen and (min-width: 768px) {
+
+
+
 
 /******************************************************************
 GRID STYLES
