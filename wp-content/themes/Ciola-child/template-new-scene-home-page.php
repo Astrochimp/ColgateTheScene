@@ -107,7 +107,7 @@ Template Name: New Scene Home Page
 							<div  class="entry-content clearfix">
 
 								    <section class="entry-content clearfix">
-									    <?php echo do_shortcode('[module type=m category="Photos" amount="12" ]'); ?>
+									    <?php echo do_shortcode('[module type=m category="Photos" amount="5" ]'); ?>
 		                    
 									</section> 
 							</div>

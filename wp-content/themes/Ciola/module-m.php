@@ -31,21 +31,28 @@
 
 		$large_image_url = "";
 		$thumbnail = "";	
+		$image_info = "";
 
 		$id = get_the_ID();
 
 		if  (has_post_thumbnail()) 	{
-			 $large_image_url = wp_get_attachment_image_src( get_post_thumbnail_id($id), 'large');
+			 $large_image_url = wp_get_attachment_image_src( get_post_thumbnail_id($id), 'full');
+			 $image_info = wp_get_attachment_metadata(get_post_thumbnail_id($id));
 			 $thumbnail = $large_image_url[0];
 		
         } else { 
           	  $thumbnail = get_template_directory_uri().'/library/images/thumbnail-380x380.png'; 
         }  
+
+
+       	$gallerycaption = strip_tags(get_the_content( '', FALSE ));
+
+
 ?>
 
 
            <li> 
-           		<a href="<?php  echo $thumbnail; ?>" class="photogallerypics">
+           		<a href="<?php  echo $thumbnail; ?>" rel="photogallerypics" title="<?php echo get_the_title(); echo " - "; echo $gallerycaption; ?>">
            			<?php the_post_thumbnail('cb-thumb-380-crop');?>	
                 </a> 
                
