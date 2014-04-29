@@ -408,8 +408,8 @@ GRID (THREE) MODULE STYLES override
 .flexslider-g .slides img {
 	display: block; 
 	position:relative; 
-	width:155%; 
-	max-width:155%;
+	width:285px; 
+  max-width: 285px;
 	left:0px; 
 	}
  .flexslider-g {
@@ -598,8 +598,7 @@ GRID STYLES
 .flexslider-g .slides img {
 	display: block; 
 	position:relative; 
-	width:100%; 
-	max-width:100%;
+	
 	left:0px; 
 	}
  .flexslider-g {
