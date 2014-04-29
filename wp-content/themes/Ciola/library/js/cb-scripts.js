@@ -402,7 +402,7 @@ jQuery(document).ready(function() {"use strict";
 		animationSpeed: 450,
 		itemMargin: 20,
 		slideshow: false,
-		minItems: 3,
+		minItems: 2,
 		controlNav: false,
 		maxItems: 3
 	});

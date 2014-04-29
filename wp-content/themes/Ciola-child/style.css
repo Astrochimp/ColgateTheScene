@@ -354,6 +354,26 @@ GRID (THREE) MODULE STYLES override
 }
 
 
+
+
+@media screen and (max-width: 481px) {
+
+.flexslider-g .slides img {
+    width: 285px !important;  
+    max-width: 285px !important; 
+    left: -25%;
+}
+
+
+ #mainwide, #photogallery {
+    width:90%;
+    margin:0px 10px 0px 20px !important;
+  }
+
+
+
+}
+
 @media only screen and (min-width: 481px) {
 
   /******************************************************************
