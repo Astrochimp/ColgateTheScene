@@ -32,13 +32,13 @@ add_action( 'init', 'create_post_type' );
 function create_post_type() {
 
 
-	register_post_type( 'main_feature',
+	register_post_type( 'news-digest',
 		array(
 			'labels' => array(
-				'name' => __( 'Category Feature' ),
-				'singular_name' => __( 'Feature' )
+				'name' => __( 'News Digest' ),
+				'singular_name' => __( 'Digest' )
 			),
-		'description' => 'Articles in categories featured on the homepage',
+		'description' => 'Articles in News Digest section featured on the homepage',
 		'public' => true,
 		'has_archive' => true,
 		'public' => true,
